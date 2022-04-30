@@ -1,5 +1,4 @@
 import './index.css';
-import About from './Images/about.jpg';
 const Projects  = () => {
     return ( 
         <div>
